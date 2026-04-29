@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pirim\\OneDrive\\Desktop\\ab\\Emergency-Ambulance-Dispatch-System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D63128C-F4B7-9FEC-77E6-3FBAC2BEC7F6}|Emergency Ambulance Dispatch System.csproj|c:\\users\\pirim\\onedrive\\desktop\\ab\\emergency-ambulance-dispatch-system\\models\\emergencycase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D63128C-F4B7-9FEC-77E6-3FBAC2BEC7F6}|Emergency Ambulance Dispatch System.csproj|solutionrelative:models\\emergencycase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D63128C-F4B7-9FEC-77E6-3FBAC2BEC7F6}|Emergency Ambulance Dispatch System.csproj|c:\\users\\pirim\\onedrive\\desktop\\ab\\emergency-ambulance-dispatch-system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D63128C-F4B7-9FEC-77E6-3FBAC2BEC7F6}|Emergency Ambulance Dispatch System.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D63128C-F4B7-9FEC-77E6-3FBAC2BEC7F6}|Emergency Ambulance Dispatch System.csproj|c:\\users\\pirim\\onedrive\\desktop\\ab\\emergency-ambulance-dispatch-system\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D63128C-F4B7-9FEC-77E6-3FBAC2BEC7F6}|Emergency Ambulance Dispatch System.csproj|solutionrelative:models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D63128C-F4B7-9FEC-77E6-3FBAC2BEC7F6}|Emergency Ambulance Dispatch System.csproj|c:\\users\\pirim\\onedrive\\desktop\\ab\\emergency-ambulance-dispatch-system\\models\\ambulance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D63128C-F4B7-9FEC-77E6-3FBAC2BEC7F6}|Emergency Ambulance Dispatch System.csproj|solutionrelative:models\\ambulance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D63128C-F4B7-9FEC-77E6-3FBAC2BEC7F6}|Emergency Ambulance Dispatch System.csproj|c:\\users\\pirim\\onedrive\\desktop\\ab\\emergency-ambulance-dispatch-system\\helpers\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D63128C-F4B7-9FEC-77E6-3FBAC2BEC7F6}|Emergency Ambulance Dispatch System.csproj|solutionrelative:helpers\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D63128C-F4B7-9FEC-77E6-3FBAC2BEC7F6}|Emergency Ambulance Dispatch System.csproj|c:\\users\\pirim\\onedrive\\desktop\\ab\\emergency-ambulance-dispatch-system\\enums\\priority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D63128C-F4B7-9FEC-77E6-3FBAC2BEC7F6}|Emergency Ambulance Dispatch System.csproj|solutionrelative:enums\\priority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D63128C-F4B7-9FEC-77E6-3FBAC2BEC7F6}|Emergency Ambulance Dispatch System.csproj|c:\\users\\pirim\\onedrive\\desktop\\ab\\emergency-ambulance-dispatch-system\\enums\\emergencystatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D63128C-F4B7-9FEC-77E6-3FBAC2BEC7F6}|Emergency Ambulance Dispatch System.csproj|solutionrelative:enums\\emergencystatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pirim\\OneDrive\\Desktop\\ab\\Emergency-Ambulance-Dispatch-System\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\pirim\\OneDrive\\Desktop\\ab\\Emergency-Ambulance-Dispatch-System\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T13:03:59.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Priority.cs",
+              "DocumentMoniker": "C:\\Users\\pirim\\OneDrive\\Desktop\\ab\\Emergency-Ambulance-Dispatch-System\\Enums\\Priority.cs",
+              "RelativeDocumentMoniker": "Enums\\Priority.cs",
+              "ToolTip": "C:\\Users\\pirim\\OneDrive\\Desktop\\ab\\Emergency-Ambulance-Dispatch-System\\Enums\\Priority.cs",
+              "RelativeToolTip": "Enums\\Priority.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T16:50:53.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmergencyStatus.cs",
+              "DocumentMoniker": "C:\\Users\\pirim\\OneDrive\\Desktop\\ab\\Emergency-Ambulance-Dispatch-System\\Enums\\EmergencyStatus.cs",
+              "RelativeDocumentMoniker": "Enums\\EmergencyStatus.cs",
+              "ToolTip": "C:\\Users\\pirim\\OneDrive\\Desktop\\ab\\Emergency-Ambulance-Dispatch-System\\Enums\\EmergencyStatus.cs",
+              "RelativeToolTip": "Enums\\EmergencyStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T16:07:54.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "C:\\Users\\pirim\\OneDrive\\Desktop\\ab\\Emergency-Ambulance-Dispatch-System\\Helpers\\Helper.cs",
+              "RelativeDocumentMoniker": "Helpers\\Helper.cs",
+              "ToolTip": "C:\\Users\\pirim\\OneDrive\\Desktop\\ab\\Emergency-Ambulance-Dispatch-System\\Helpers\\Helper.cs",
+              "RelativeToolTip": "Helpers\\Helper.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T16:01:19.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmergencyCase.cs",
+              "DocumentMoniker": "C:\\Users\\pirim\\OneDrive\\Desktop\\ab\\Emergency-Ambulance-Dispatch-System\\models\\EmergencyCase.cs",
+              "RelativeDocumentMoniker": "models\\EmergencyCase.cs",
+              "ToolTip": "C:\\Users\\pirim\\OneDrive\\Desktop\\ab\\Emergency-Ambulance-Dispatch-System\\models\\EmergencyCase.cs",
+              "RelativeToolTip": "models\\EmergencyCase.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T15:48:07.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ambulance.cs",
+              "DocumentMoniker": "C:\\Users\\pirim\\OneDrive\\Desktop\\ab\\Emergency-Ambulance-Dispatch-System\\models\\Ambulance.cs",
+              "RelativeDocumentMoniker": "models\\Ambulance.cs",
+              "ToolTip": "C:\\Users\\pirim\\OneDrive\\Desktop\\ab\\Emergency-Ambulance-Dispatch-System\\models\\Ambulance.cs",
+              "RelativeToolTip": "models\\Ambulance.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T15:45:36.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\pirim\\OneDrive\\Desktop\\ab\\Emergency-Ambulance-Dispatch-System\\models\\Patient.cs",
+              "RelativeDocumentMoniker": "models\\Patient.cs",
+              "ToolTip": "C:\\Users\\pirim\\OneDrive\\Desktop\\ab\\Emergency-Ambulance-Dispatch-System\\models\\Patient.cs",
+              "RelativeToolTip": "models\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T15:41:20.242Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
