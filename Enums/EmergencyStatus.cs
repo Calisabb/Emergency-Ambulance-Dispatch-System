@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Emergency_Ambulance_Dispatch_System.Enums
 {
-    internal class EmergencyStatus
+    internal enum EmergencyStatus
     {
     }
 }
