@@ -6,12 +6,10 @@ using System.Threading.Tasks;
 
 namespace Emergency_Ambulance_Dispatch_System.Enums
 {
-     enum EmergencyStatus
+    enum Priority
     {
-        Created, 
-        Assigned,
-        OnRoute, 
-        Completed
+        Low,
+        Medium,
+        High
     }
-    
 }
