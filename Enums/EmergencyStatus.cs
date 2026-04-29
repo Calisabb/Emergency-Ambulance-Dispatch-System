@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Emergency_Ambulance_Dispatch_System.Enums
 {
-     enum EmergencyStatus
+
+    public enum EmergencyStatus
     {
         Created, 
         Assigned,
