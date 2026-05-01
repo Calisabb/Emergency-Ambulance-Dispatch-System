@@ -9,7 +9,7 @@ namespace Emergency_Ambulance_Dispatch_System.Enums
 
     public enum EmergencyStatus
     {
-        Created, 
+        Created = 1, 
         Assigned,
         OnRoute, 
         Completed

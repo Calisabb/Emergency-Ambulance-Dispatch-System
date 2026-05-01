@@ -8,24 +8,28 @@ namespace Emergency_Ambulance_Dispatch_System.Helpers
 {
     public class Helper
     {
-        public static bool CheckFullName()
+        public static bool CheckFullName(string fullname)
         {
-            return true;
+            return !string.IsNullOrWhiteSpace(fullname);
         }
 
 
-        public static bool CheckPhoneNumber( string phone)
+        public static bool CheckPhoneNumber(string phone)
         {
-            if (phone.Length < 10 || phone.Length > 15)
-            { return false; }
+            if (phone.Length >= 10 && phone.Length <= 15)
+            {
+                return true;
+            }
             else
-            { return true; }
+            { 
+                return false;
+            }
 
         }
 
-        public static bool CheckLocation()
+        public static bool CheckLocation(string location)
         {
-            return true;
+            return !string.IsNullOrWhiteSpace(location);
         }
 
 
@@ -39,5 +43,8 @@ namespace Emergency_Ambulance_Dispatch_System.Helpers
             }
             return caseNo;
         }
+
+
+
     }
 }

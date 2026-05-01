@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Emergency_Ambulance_Dispatch_System.Enums;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -22,6 +23,11 @@ namespace Emergency_Ambulance_Dispatch_System.models
             this.PhoneNumber = PhoneNumber;
             this.Location = Location;
         
+        }
+
+        public override string ToString()
+        {
+            return $"FullName:{FullName}, PhoneNumber:{PhoneNumber}, Location:{Location}";
         }
     }
 }
