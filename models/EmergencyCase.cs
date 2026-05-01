@@ -10,33 +10,30 @@ namespace Emergency_Ambulance_Dispatch_System.models
 {
     public class EmergencyCase
     {
-        private string CaseN0 { get; set; }
-        public string Patient { get; set; }
-        public string Priorty { get; set; }
-        public string Status { get; private set; }
-        public string AssignedAmbulance { get; set; }
+        static string? _caseNo;
+        public string CaseNo { get; set; }
+        public Patient Patient { get; set; }
+        public Priority Priorty { get; set; }
+        public EmergencyStatus Status { get; set; }
+        public Ambulance? AssignedAmbulance { get; set; }
 
        
 
-        public EmergencyCase(string patient, string priorty,string status)
+        public EmergencyCase(Patient patient, Priority priorty)
         {
             Patient = patient;
             Priorty = priorty;
-            Status = status;
-            CaseN0 = Helper.GenerateCaseNo();
+            _caseNo = Helper.GenerateCaseNo();
+            CaseNo = _caseNo;
 
+        }
+
+        public override string ToString()
+        {
+            return $"\n-------\nPatient:{Patient}\nPriorty:{Priorty}\nCaseNo:{CaseNo}\nStatus:{Status}\nAssignedAmbulance:{AssignedAmbulance}\n-------\n";
         }
        
-        public bool AssignAmbulance(Ambulance ambulance)
-        {
-            if (ambulance == null)
-            { return false; }
 
-
-            else
-            { return true; }
-
-        }
 
 
 

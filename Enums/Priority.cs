@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace Emergency_Ambulance_Dispatch_System.Enums
 {
-    enum Priority
+    public enum Priority
     {
-        Low,
+        Low = 1,
         Medium,
         High
     }
