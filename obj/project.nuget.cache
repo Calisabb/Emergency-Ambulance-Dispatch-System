@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dJscL48Tl3U=",
+  "dgSpecHash": "nAaytGspkNk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\pirim\\OneDrive\\Desktop\\ab\\Emergency-Ambulance-Dispatch-System\\Emergency Ambulance Dispatch System.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\pirim\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.25\\microsoft.windowsdesktop.app.ref.8.0.25.nupkg.sha512",
-    "C:\\Users\\pirim\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.25\\microsoft.netcore.app.ref.8.0.25.nupkg.sha512",
-    "C:\\Users\\pirim\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.25\\microsoft.aspnetcore.app.ref.8.0.25.nupkg.sha512",
-    "C:\\Users\\pirim\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.25\\microsoft.netcore.app.host.win-x64.8.0.25.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\ASUS ROG G700\\source\\repos\\Emergency Ambulance Dispatch System\\Emergency Ambulance Dispatch System\\Emergency Ambulance Dispatch System.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

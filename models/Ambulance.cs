@@ -12,7 +12,7 @@ namespace Emergency_Ambulance_Dispatch_System.models
         public int Id { get; private set; }
         public string PlateNumber { get; set; }
         public string DriverName { get; set; }
-        public bool IsAvialable { get; set; } = true;
+        public bool IsAvailable { get; set; } = true;
 
 
         public Ambulance(string PlateNumber,string DriverName)
@@ -21,6 +21,10 @@ namespace Emergency_Ambulance_Dispatch_System.models
             this.PlateNumber = PlateNumber;
             this.DriverName = DriverName;
         
+        }
+        public override string ToString()
+        {
+            return $"PlateNumber:{PlateNumber}, DriverName:{DriverName}";
         }
 
     }
